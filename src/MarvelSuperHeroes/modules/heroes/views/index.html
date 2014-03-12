@@ -1,0 +1,16 @@
+﻿<div class="inner cover">
+    <div class="float-left" >
+        <img ng-repeat ="hero in vm.heroes" 
+             ng-src="{{ hero.thumbnail.path }}.{{ hero.thumbnail.extension }}" 
+             width="120" height="120" class="img-circle" alt="{{ hero.name }}">
+    </div>
+    <ul class="pagination">
+        <li><a href="#">&laquo;</a></li>
+        <li><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">4</a></li>
+        <li><a href="#">5</a></li>
+        <li><a href="#">&raquo;</a></li>
+    </ul>
+</div>

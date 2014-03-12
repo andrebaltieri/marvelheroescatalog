@@ -1,0 +1,6 @@
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\MarvelSuperHeroes\MarvelSuperHeroes\bin\MarvelSuperHeroes.dll.config
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\MarvelSuperHeroes\MarvelSuperHeroes\bin\MarvelSuperHeroes.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\MarvelSuperHeroes\MarvelSuperHeroes\bin\MarvelSuperHeroes.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\MarvelSuperHeroes\MarvelSuperHeroes\obj\Debug\MarvelSuperHeroes.csprojResolveAssemblyReference.cache
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\MarvelSuperHeroes\MarvelSuperHeroes\obj\Debug\MarvelSuperHeroes.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\MarvelSuperHeroes\MarvelSuperHeroes\obj\Debug\MarvelSuperHeroes.pdb
